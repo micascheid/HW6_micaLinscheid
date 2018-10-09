@@ -1,0 +1,17 @@
+nav {
+    text-align: center;
+    background-color: crimson;
+    width: 25%;
+    height: 3em;
+    margin-left: 37.5%;
+}
+
+nav ul {
+    display: inline-block;
+    list-style-type: none;
+}
+
+nav li {
+    display: inline;
+    border: teal solid .1em;
+}
